@@ -1,4 +1,4 @@
-## Olá! Eu sou a Julliana 😊
+## Olá! Eu sou a Julliana Leão 😊
 
 
 - 🔭 Hoje faço projetos front-end
