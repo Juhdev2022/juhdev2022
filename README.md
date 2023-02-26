@@ -11,7 +11,11 @@
   
   
   <div>
-    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/IMC%2037.jpg?raw=true">
+    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/IMC%2037%20(1).jpg?raw=true">
+    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/key2%20(1).jpg?raw=true">
+    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/Mario%20(2).jpg?raw=true">
+    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/Capture%20(1).jpg?raw=true">
+    
    
   <div> 
   
@@ -24,6 +28,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">   
 </div>
     <div align="center">
   <a href="https://github.com/juhdev2022">
