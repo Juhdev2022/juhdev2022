@@ -11,9 +11,8 @@
   
   
   <div>
-    <a href="https://www.terabox.com/main?category=all&path=%2FIMC" target="_blank"><img src="[https://terabox.com/s/15kATsJjHXDk9Eq9Ard88GA](https://data.terabox.com/thumbnail/b91cfc7ea107e3ee8079dfbc36d2158d?fid=4401010423484-250528-606898137170490&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-W3Wk%2bKwtrL692U0wG%2bnJLM6YPFg%3d&expires=8h&chkbd=0&chkv=0&dp-logid=175564874689425122&dp-callid=0&time=1677448800&size=c1366_u768&quality=90&vuk=4401010423484&ft=image&autopolicy=1)" target="_blank"></a>
-   <a href="https://www.terabox.com/main?category=all&path=%2FIMC" target="_blank"><img src="https://data.terabox.com/thumbnail/b91cfc7ea107e3ee8079dfbc36d2158d?fid=4401010423484-250528-606898137170490&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-ZlvYyoxsprShnaDPmCtUbdqWZL8%3d&expires=8h&chkbd=0&chkv=0&dp-logid=368738841687621664&dp-callid=0&time=1668106800&size=c1536_u864&quality=90&vuk=4401010423484&ft=image&autopolicy=1" target="_blank"></a>
-    <a href="https://www.terabox.com/main?category=all&path=%2FIMC" target="_blank"><img src="https://data.terabox.com/thumbnail/6d638af11db460da58021470f41218d6?fid=4401010423484-250528-905704307753611&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-HtPV6lP%2bJAubA2X1PO7VgPiJ8eE%3d&expires=8h&chkbd=0&chkv=0&dp-logid=369154278158909840&dp-callid=0&time=1668110400&size=c1536_u864&quality=90&vuk=4401010423484&ft=image&autopolicy=1" target="_blank"></a>
+    
+   
   <div> 
   
   <a href="https://instagram.com/juleaodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
