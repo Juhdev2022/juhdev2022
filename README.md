@@ -11,10 +11,8 @@
   
   
   <div>
-    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/IMC%2037%20(1).jpg?raw=true">
-    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/key2%20(1).jpg?raw=true">
-    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/Mario%20(2).jpg?raw=true">
-    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/Capture%20(1)%20(1).jpg?raw=true">
+    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/git.JPG?raw=true">
+    
     
    
   <div> 
