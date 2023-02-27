@@ -11,7 +11,7 @@
   
   
   <div>
-    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/git.JPG?raw=true">
+    <img src="https://github.com/Juhdev2022/fotosProjetos/blob/main/gt3.JPG?raw=true">
     
     
    
