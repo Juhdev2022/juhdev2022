@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Julliana Leão 😊
 
 
-- 🔭 Hoje me dedico aos estudos e projetos front-end
-- 🌱 Estudando JavaScript/React
+- 🔭 Hoje estou cursando ADS
+- 🌱 Além disso me dedico aos estudos e projetos front-end
 - 😄 Pronouns: ela/dela
 ##
 - 😉 Alguns projetos que você irá encontrar no meu portfolio! 👇
