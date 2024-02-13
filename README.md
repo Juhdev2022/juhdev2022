@@ -1,14 +1,13 @@
 # Olá, eu sou a Julliana! 👋
 
 Bem-vindo ao meu perfil! Sou apaixonada por desenvolvimento de software e aqui estão algumas informações sobre mim.
-
-- 👩‍💻 Desenvolvedora Web
-- 📚 Cursando 2º ano de Análise e Desenvolvimento de Sistemas  
-- 🌐 <a href="https://juhdev2022.github.io/Portfolio/" target="_blank">Portfolio</a>
-- 📷 <a href="https://instagram.com/juleaodev/" target="_blank">Instagram</a>
+<div>
+- 👩‍💻 Desenvolvedora Web<br>
+- 📚 Cursando 2º ano de Análise e Desenvolvimento de Sistemas<br>
+- 🌐 <a href="https://juhdev2022.github.io/Portfolio/" target="_blank">Portfolio</a><br>
+- 📷 <a href="https://instagram.com/juleaodev/" target="_blank">Instagram</a><br>
 - 💼 <a href="https://www.linkedin.com/in/julliana-le%C3%A3o-8038a718b/" target="_blank">LinkedIn</a>
-
-
+</div> 
 
 ## Tecnologias que eu trabalho
 
