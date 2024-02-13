@@ -4,9 +4,9 @@ Bem-vindo ao meu perfil! Sou apaixonada por desenvolvimento de software e aqui e
 
 - 👩‍💻 Desenvolvedora Web
 - 📚 Cursando 2º ano de Análise e Desenvolvimento de Sistemas  
-- 🌐 [Portfolio](https://juhdev2022.github.io/Portfolio/"target="_blank")
-- 📷 [Instagram](https://instagram.com/juleaodev/"target="_blank")
-- 💼 [LinkedIn](https://www.linkedin.com/in/julliana-le%C3%A3o-8038a718b/"target="_blank")
+- 🌐 [Portfolio](https://juhdev2022.github.io/Portfolio/target="_blank")
+- 📷 [Instagram](https://instagram.com/juleaodev/target="_blank")
+- 💼 [LinkedIn](https://www.linkedin.com/in/julliana-le%C3%A3o-8038a718b/target="_blank")
 
 ## Tecnologias que eu trabalho
 
