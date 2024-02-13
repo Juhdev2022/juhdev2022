@@ -8,12 +8,22 @@
 👇
   
 
-  <a href = "https://juhdev2022.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+
+  <a href="https://juhdev2022.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
+  </a>
   
-  <a href="https://instagram.com/juleaodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/juleaodev" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
   
-  <a href="https://www.linkedin.com/in/julliana-le%C3%A3o-8038a718b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
+  <a href="https://www.linkedin.com/in/julliana-le%C3%A3o-8038a718b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+</div>
+
     
    ##
     <div style="display: inline_block" align="center"><br>
