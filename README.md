@@ -9,6 +9,7 @@ Bem-vindo ao meu perfil! Sou apaixonada por desenvolvimento de software e aqui e
 - 💼 <a href="https://www.linkedin.com/in/julliana-le%C3%A3o-8038a718b/" target="_blank">LinkedIn</a>
 
 
+
 ## Tecnologias que eu trabalho
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
